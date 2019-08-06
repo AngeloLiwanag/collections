@@ -1,0 +1,11 @@
+/Users/angeloliwanag/Documents/CodingDojo/C#/collections/obj/Debug/netcoreapp2.2/collections.csprojAssemblyReference.cache
+/Users/angeloliwanag/Documents/CodingDojo/C#/collections/obj/Debug/netcoreapp2.2/collections.csproj.CoreCompileInputs.cache
+/Users/angeloliwanag/Documents/CodingDojo/C#/collections/obj/Debug/netcoreapp2.2/collections.AssemblyInfoInputs.cache
+/Users/angeloliwanag/Documents/CodingDojo/C#/collections/obj/Debug/netcoreapp2.2/collections.AssemblyInfo.cs
+/Users/angeloliwanag/Documents/CodingDojo/C#/collections/bin/Debug/netcoreapp2.2/collections.deps.json
+/Users/angeloliwanag/Documents/CodingDojo/C#/collections/bin/Debug/netcoreapp2.2/collections.runtimeconfig.json
+/Users/angeloliwanag/Documents/CodingDojo/C#/collections/bin/Debug/netcoreapp2.2/collections.runtimeconfig.dev.json
+/Users/angeloliwanag/Documents/CodingDojo/C#/collections/bin/Debug/netcoreapp2.2/collections.dll
+/Users/angeloliwanag/Documents/CodingDojo/C#/collections/bin/Debug/netcoreapp2.2/collections.pdb
+/Users/angeloliwanag/Documents/CodingDojo/C#/collections/obj/Debug/netcoreapp2.2/collections.dll
+/Users/angeloliwanag/Documents/CodingDojo/C#/collections/obj/Debug/netcoreapp2.2/collections.pdb
