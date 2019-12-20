@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/angeloliwanag/Documents/CodingDojo/C#/collections/collections.csproj",
+      "projectUniqueName": "/Users/angeloliwanag/Documents/CodingDojo/C#/Language_Fundamentals/collections/collections.csproj",
       "projectName": "collections",
-      "projectPath": "/Users/angeloliwanag/Documents/CodingDojo/C#/collections/collections.csproj",
+      "projectPath": "/Users/angeloliwanag/Documents/CodingDojo/C#/Language_Fundamentals/collections/collections.csproj",
       "packagesPath": "/Users/angeloliwanag/.nuget/packages/",
-      "outputPath": "/Users/angeloliwanag/Documents/CodingDojo/C#/collections/obj/",
+      "outputPath": "/Users/angeloliwanag/Documents/CodingDojo/C#/Language_Fundamentals/collections/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

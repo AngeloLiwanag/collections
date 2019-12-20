@@ -7,13 +7,11 @@ namespace collections
     {
         static void Main(string[] args)
         {
-            // basic_9(9);
-            // basic_name();
-            // basic_tf(10);
-
-            // ice_cream();
-            basic_dict();
-
+            // basic_9(9); // Calling the function "basic_9"
+            // basic_name(); // Calling the function "basic_name"
+            // basic_tf(10); // Calling the function "basic_tf"
+            // ice_cream(); // Calling the function "ice_cream"
+            basic_dict(); // Calling the function "basic_dict"
         }
 
         public static void basic_9(int num)
